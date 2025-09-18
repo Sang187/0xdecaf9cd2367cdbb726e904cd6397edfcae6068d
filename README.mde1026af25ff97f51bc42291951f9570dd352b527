@@ -1,1 +1,3 @@
+gpg --verify Electrum-4.5.5.tar.gz.asc Electrum-4.5.5.tar.gz
+
 
